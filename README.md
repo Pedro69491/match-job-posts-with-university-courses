@@ -3,8 +3,8 @@
 NLP thesis project
 
 Abstract:
-During university enrollment, students have the difficult task of choosing electives or specialization courses that give them enough knowledge and expertise to fulfill the requirements of
-desired job positions. This thesis addresses this challenge by using Natural Language Processing (NLP) models that does the matching between jobs and courses and can potentially help
+During university enrollment, students have the difficult task of choosing electives or specialization courses that give them enough knowledge and expertise to fulfill the requirements of
+desired job positions. This thesis addresses this challenge by using Natural Language Processing (NLP) models that does the matching between jobs and courses and can potentially help
 students to select course more accurately based on their career hopes. For this study, we use
 Information Technology (IT) job postings data from the Stack Overflow job ad platform and
 extract a list of courses from the IT University of Copenhagen (ITU). We pose this task as a
